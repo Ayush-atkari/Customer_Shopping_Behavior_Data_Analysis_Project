@@ -74,3 +74,22 @@ The Power BI Dashboard includes:
 4. Customer Segmentation Visualization
 
 5. Interactive filters for region, category, and age group
+
+💡 Business Impact
+
+* Identify key customer segments to target for marketing.
+
+* Optimize discount strategies to improve profit margins.
+
+* Strengthen subscription plans to increase repeat customers.
+
+* Enhance inventory decisions based on product popularity and reviews.
+
+
+  👤 Author
+
+Ayush Atkari
+
+📧 ayushatkari247@gmail.com
+
+📍 India
